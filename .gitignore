@@ -40,3 +40,4 @@ next-env.d.ts
 /docs/build
 .docusaurus
 .cache-loader
+/public/documentations
