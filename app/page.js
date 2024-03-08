@@ -41,7 +41,7 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href={process.env.DEV ? 'http://localhost:3001/documentations' : '/documentations'}
+          href={process.env.DEV ? 'http://localhost:3001/docs' : '/docs'}
           className={styles.card}
           rel="noopener noreferrer"
         >
